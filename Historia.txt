@@ -10,6 +10,11 @@ Mide 1,67 m.
 
 
 Master 1
+<<<<<<< HEAD
 
 Master 2
 Experimento 1
+=======
+Experimento 1
+Experimento 2
+>>>>>>> d72d4a6 (Experimento 2)
